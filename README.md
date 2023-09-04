@@ -1,9 +1,10 @@
 
 A demo website of GDSC created to perform task interview.
 Website link :-  https://sohamn22.github.io/SohamNagvekar-GDSC-WebDev_Task/
-![Screenshot 2023-09-04 182441](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/db7a1a33-c61a-4252-b096-1924785796cb)
-![Screenshot 2023-09-04 182454](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/4650e387-4084-4e58-9ff4-bd666255ae3c)
-![Screenshot 2023-09-04 183707](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/8b5fa492-e513-4da0-97c2-4b4a9efb6b10)
-![Screenshot 2023-09-04 183721](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/e7884764-59dd-4158-96f8-6a740b22c1f9)
-![Screenshot 2023-09-04 183737](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/feff2495-4285-4b7a-a2a5-f24eaa153489)
-![Screenshot 2023-09-04 183818](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/7625ff75-45c8-4f60-9585-1b5c42bc232a)
+![Screenshot 2023-09-04 211703](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/52a21278-9d9a-4de2-892c-eead5d0dea08)
+![Screenshot 2023-09-04 211717](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/a4f0a5e6-562d-4832-9b84-1b9281b66348)
+![Screenshot 2023-09-04 211741](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/315b3922-9d0b-4152-8309-f02eef93794e)
+![Screenshot 2023-09-04 211756](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/952ea8e8-307a-40ee-a197-ea44f064074a)
+![Screenshot 2023-09-04 211808](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/35907099-6887-4009-a98b-bda49832747e)
+![Screenshot 2023-09-04 182558](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/3c156837-9eef-4841-ae01-a2427d986494)
+![Screenshot 2023-09-04 182630](https://github.com/sohamn22/SohamNagvekar-GDSC-WebDev_Task/assets/144012127/41fb8414-561b-423b-a4c1-cdb5fad3a461)
