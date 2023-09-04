@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Slab', serif;
+
+}
+#main{
+    background-color:white;
+    min-height: 100vh;
+    background-position: center;
+
+}
+nav{
+    display: flex;
+    padding: 2x 5x;
+    justify-content: space-between;
+    border-bottom: 0.2px solid;
+    width: 100%;
+    border-color: #5C5470;;
+
+}
+nav img{
+    padding: 30px;
+    width: 400px;
+
+}
+#nav-bars{
+    flex: 1;
+    text-align: right;
+
+}
+#nav-bars ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 50px 25px;
+    position: relative;
+
+}
+#nav-bars ul li a{
+    color: #5C5470;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+#nav-bars ul li::after{
+    content: '';
+    width: 0%;
+    height: 3px;
+    display: block;
+    margin: auto;
+    transition: 0.4s;
+    background-color: #279EFF;
+
+}
+#nav-bars ul li:hover::after{
+    width: 100%;
+
+}
+h1{
+    border-bottom: black;
+    border-width: 100%;   
+
+}
+#collage{
+    height: 400px;
+    width:  400px;
+    align-items: left;
+    padding: 20px;
+    float: left;
+    border: 5px;
+    background-color:#FBEEAC;
+    margin: 30px;
+
+}
+#para{
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 80px;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 30px;
+    padding-right: 100px;
+    border-radius: 20px;
+    background-color: #0F9D58;
+    border-color: black;
+}
+h2{
+    margin-left: 30px;
+    color: #F0DE36;
+
+}
+#downimg{
+    height: 300px;
+    width: 500px;
+    float: right;
+    padding: 20px;
+    background-color: #FBEEAC;
+    margin: 30px;
+
+}
+#gdscinfo{
+    border-radius: 20px;
+    margin-top: 350px;
+    margin-right: 100px;
+    background-color:#4285F4;
+    padding: 20px;
+
+}
+#gdscinfo a{
+    color: black;
+
+}
+#info{
+    margin-left: 30px;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+
+}
+p{
+    color:  white;
+
+}
+#sociallinks{
+    margin-left: 30px;
+}
+#sociallinks ul{
+    list-style: none;
+}
+#sociallinks img{
+    height: 40px;
+    width: 40px;
+
+}
+#userconnect{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#submit:hover{
+    background-color: black;
+    color: white;
+
+}
+#events{
+    height: 40%;
+    width: 90%;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 50px;  
+    margin-top: 100px;
+    
+}
+#card {
+    height: 400px;
+    width: 350px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color:#C5DFF8;
+    margin: 20px;
+    justify-self: center;
+    position: relative;
+    text-align: center;
+    border-color: #272829;
+
+}
+#card img{
+    height: 300px;
+    width: 300px;
+
+}
+#card button{
+    margin-top: 40px;
+    background-color: white;
+    color: black;
+
+}
+#card button:hover{
+    background-color: black;
+    color: white;
+
+}
+#events2{
+    height: 40%;
+    width: 90%;
+    justify-content: center;
+    display: flex;
+    margin-left: 50px; 
+    margin-top: 100px;
+    justify-content: space-between;
+}
+#card1{
+    height: 400px;
+    width: 350px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color:#C5DFF8;
+    margin: 20px;
+    justify-self: center;
+    position: relative;
+    text-align: center;
+    border-color: #272829;
+}
+#card1 img{
+    height: 300px;
+    width: 300px;
+
+}
+#card1 button{
+    margin-top: 40px;
+    background-color: white;
+    color: black;
+
+}
+#card1 button:hover{
+    background-color: black;
+    color: white;
+
+}
+#footer{
+    margin-top: 200px;
+    padding-top: 50px;
+
+}
+#links{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #272829;
+
+}
+#links ul{
+    list-style: none;
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+#links h3{
+   position: relative;
+   display: grid;
+   align-items: center;
+   justify-content:space-evenly;
+   color: white;
+   padding: 30px;
+   
+}
+#links img{
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    justify-content: space-evenly;
+    margin-top: 30px; 
+
+}
